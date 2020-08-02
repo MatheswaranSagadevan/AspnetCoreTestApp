@@ -30,7 +30,7 @@ This is mostly for developers. in order to make production grade app, we need to
   8.b) Using CLI command prompt, navigate to the project folder with CD <.. Your actualProject Path..> and execute dotnet run.
 9) That is it !! This application is up and running !! :) :)
 
-# Do you want fiddle it ?
+# Do you want to fiddle it ?
 1) you could fiddle with this api using fiddler or postman.
 2) Example with Postman:
 
