@@ -20,12 +20,7 @@ namespace AspnetCore_Test.Controllers
             {
                 this.propertyService = propertyService;
             }
-        // GET: api/<PropertyController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+        
 
         // GET api/<PropertyController>/5
         [HttpGet("{id}")]
@@ -52,16 +47,22 @@ namespace AspnetCore_Test.Controllers
             }
         }
 
-        // PUT api/<PropertyController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
+        ////// GET: api/<PropertyController>
+        ////[HttpGet]
+        ////public IEnumerable<string> Get()
+        ////{
+        ////    return new string[] { "value1", "value2" };
+        ////}
+        ////// PUT api/<PropertyController>/5
+        ////[HttpPut("{id}")]
+        ////public void Put(int id, [FromBody] string value)
+        ////{
+        ////}
 
-        // DELETE api/<PropertyController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
+        ////// DELETE api/<PropertyController>/5
+        ////[HttpDelete("{id}")]
+        ////public void Delete(int id)
+        ////{
+        ////}
     }
 }
