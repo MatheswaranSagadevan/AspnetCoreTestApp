@@ -1,0 +1,15 @@
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.deps.json
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.csprojAssemblyReference.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.AssemblyInfoInputs.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.AssemblyInfo.cs
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccess.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccess.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.csproj.CopyComplete
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.runtimeconfig.json
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.runtimeconfig.dev.json
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.csproj.CoreCompileInputs.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\Test-DataAccess\obj\Debug\netcoreapp3.1\Test-DataAccessRepository.genruntimeconfig.cache

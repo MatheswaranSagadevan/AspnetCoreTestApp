@@ -1,0 +1,14 @@
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-BusinessService.deps.json
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-BusinessService.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-BusinessService.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.csprojAssemblyReference.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.AssemblyInfoInputs.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.AssemblyInfo.cs
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-DataAccess.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-DataAccessRepository.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\bin\Debug\netcoreapp3.1\Test-DataAccess.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.csproj.CopyComplete
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\BusinessService\obj\Debug\netcoreapp3.1\Test-BusinessService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\bin\Debug\netcoreapp3.1\Test-DataAccess.deps.json
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\bin\Debug\netcoreapp3.1\Test-DataAccess.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\obj\Debug\netcoreapp3.1\Test-DataAccess.AssemblyInfoInputs.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\obj\Debug\netcoreapp3.1\Test-DataAccess.AssemblyInfo.cs
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\bin\Debug\netcoreapp3.1\Test-DataAccess.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\obj\Debug\netcoreapp3.1\Test-DataAccess.csprojAssemblyReference.cache
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\obj\Debug\netcoreapp3.1\Test-DataAccess.dll
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\obj\Debug\netcoreapp3.1\Test-DataAccess.pdb
+C:\Users\Matheswaran\source\repos\AspnetCore-Test\DomainModels\obj\Debug\netcoreapp3.1\Test-DataAccess.csproj.CoreCompileInputs.cache
